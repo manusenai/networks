@@ -1,0 +1,78 @@
+h1 {
+    float:center;
+    text-align: center;
+    font-size: 70px;
+    color:#008080;
+    margin: 300px 350px 300px 350px;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+a.topologia {
+    float:left;
+    font-size: 40px;
+    color:#008080;
+    margin: -230px 0px 0px 90px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+p2 {
+    float:left;
+    font-size: 23px;
+    color:black;
+    margin: -180px 0px 0px 95px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a.meios {
+    float:right;
+    font-size: 40px;
+    color:#008080;
+    margin: -240px 60px 0px 0px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+p4 {
+    float:right;
+    font-size: 23px;
+    color:black;
+    margin: -187px 270px 0px 0px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a.arquitetura {
+    float:left;
+    font-size: 40px;
+    color:#008080;
+    margin: 150px 0px 0px 100px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+p6 {
+    float:left;
+    font-size: 23px;
+    color:black;
+    margin: 200px 0px 0px -275px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a.tipos {
+    float:right;
+    font-size: 40px;
+    color:#008080;
+    margin: 120px 190px 0px 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+p8 {
+    float:right;
+    font-size: 23px;
+    color:black;
+    margin: 170px -85px 0px 0px;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
